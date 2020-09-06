@@ -17,53 +17,56 @@ githubCorner: # '<a href="https://github.com/HCLonely/hexo-theme-webstack" class
 # 侧边栏菜单设置
 # icon 图标使用 Font Awesome：http://www.fontawesome.com.cn/faicons/
 menu:
-  - name: 常用工具
-    icon: far fa-star
-    config: hotTools
-  - name: 其他工具
-    icon: fas fa-tools
-    submenu:
-      - name: 开发工具
-        icon: fas fa-tools
-        config: devTools
-      - name: 我的博客
-        icon: fas fa-blog
-        config: myBlog
+  - name: 常用网站
+    icon: fa fa-globe
+    config: website
+#  - name: 常用工具
+#    icon: far fa-star
+#    config: hotTools
+#  - name: 其他工具
+#    icon: fas fa-tools
+#    submenu:
+#      - name: 开发工具
+#        icon: fas fa-tools
+#        config: devTools
+#      - name: 我的博客
+#        icon: fas fa-blog
+#        config: myBlog
 
 # 在 /source/_data/ 下配置
-devTools:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-
-hotTools:
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-  - name: Github
-    url: https://github.com/
-    img: /images/logos/github.png
-    description: 面向开源及私有软件项目的托管平台。
-
-myBlog:
-  - name: Yeetime Blog
-    url: https://www.yeetime.top
-    img: /images/logos/myblog.png
-    description: 一个空空的博客。
+#devTools:
+#  - name: Github
+#    url: https://github.com/
+#    img: /images/logos/github.png
+#    description: 面向开源及私有软件项目的托管平台。
+#  - name: Github
+#    url: https://github.com/
+#    img: /images/logos/github.png
+#    description: 面向开源及私有软件项目的托管平台。
+#  - name: Github
+#    url: https://github.com/
+#    img: /images/logos/github.png
+#    description: 面向开源及私有软件项目的托管平台。
+#
+#hotTools:
+#  - name: Github
+#    url: https://github.com/
+#    img: /images/logos/github.png
+#    description: 面向开源及私有软件项目的托管平台。
+#  - name: Github
+#    url: https://github.com/
+#    img: /images/logos/github.png
+#    description: 面向开源及私有软件项目的托管平台。
+#  - name: Github
+#    url: https://github.com/
+#    img: /images/logos/github.png
+#    description: 面向开源及私有软件项目的托管平台。
+#
+#myBlog:
+#  - name: Yeetime Blog
+#    url: https://www.yeetime.top
+#    img: /images/logos/myblog.png
+#    description: 一个空空的博客。
 # 在 /source/_data/ 下配置
 
 about:
@@ -79,6 +82,7 @@ aboutPage:
       <p>部署在 <a href="https://coding.net/">CODING 静态网站</a></p>
       <p>域名免费注册于 <a href="https://www.freenom.com/">freenom</a></p>
       <p>由 <a href="https://cloud.tencent.com/">腾讯云</a> 提供 DNS 域名解析、SSL证书</p>
+      <p>hexo 程序配置和数据备份于 <a href="https://github.com/yeetime/hexo-webstack">GitHub</a></p>
       '
   # webmaster:
   #   head: 关于站长
@@ -100,6 +104,12 @@ custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
+    <script>
+      $(document).ready(function(){
+        // 收缩侧边栏
+        $(".sidebar-menu").addClass("collapsed");
+      });
+    </script>
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
