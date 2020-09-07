@@ -104,15 +104,12 @@ custom:
   head: |- # 以下内容插入到<head></head>标签内，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
-    <script>
-      $(document).ready(function(){
-        // 收缩侧边栏
-        $(".sidebar-menu").addClass("collapsed");
-      });
-    </script>
+    <link rel="stylesheet" href="/css/diy.css">
+
   body: |- # 以下内容插入到</body>标签之前，可设置多行，注意每行开头至少四个空格
     <!-- 直接添加html内容即可 -->
     <!-- 可设置多行 -->
+    <script src="/js/diy.js"></script>
 
 js:
   header: /js/header.js

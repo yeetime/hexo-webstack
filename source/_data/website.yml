@@ -1,4 +1,10 @@
 - name: Github
   url: https://github.com/
   img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
+  description: 面向开源及私有软件项目的托管平台
+# ------------------------------------------
+- name: 哔哩哔哩
+  url: https://www.bilibili.com/
+  img: https://www.bilibili.com/favicon.ico
+  description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
+# ------------------------------------------
