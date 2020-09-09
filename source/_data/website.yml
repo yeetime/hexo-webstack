@@ -18,13 +18,4 @@
   img: https://www.notion.so/images/favicon.ico
   description: 知识碎片整理
 # ------------------------------------------
-- name: 网速测试 - 测速网
-  url: https://www.speedtest.cn/
-  img: https://www.speedtest.cn/images/ico/favicon.png
-  description: rt
-# ------------------------------------------
-- name: GitHub 文件加速
-  url: https://github-download.yeetime.top/
-  img: /images/logos/github.png
-  description: rt
-# ------------------------------------------
+

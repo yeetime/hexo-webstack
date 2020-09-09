@@ -1,8 +1,15 @@
-- name: HCLonely Blog
-  url: https://blog.hclonely.com/
-  img: /images/logos/myBlog.png
-  description: 一个懒人的博客。
-- name: Github
-  url: https://github.com/
+- name: 网速测试 - 测速网
+  url: https://www.speedtest.cn/
+  img: https://www.speedtest.cn/images/ico/favicon.png
+  description:
+# ------------------------------------------
+- name: GitHub 文件加速
+  url: https://github-download.yeetime.top/
   img: /images/logos/github.png
-  description: 面向开源及私有软件项目的托管平台。
+  description:
+# ------------------------------------------
+- name: IP 查询
+  url: https://www.ip.cn/
+  img: /favicon.ico
+  description: IP.cn - IP 地址查询 | 地理位置 | 手机归属地
+# ------------------------------------------

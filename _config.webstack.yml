@@ -20,9 +20,9 @@ menu:
   - name: 常用网站
     icon: fa fa-globe
     config: website
-#  - name: 常用工具
-#    icon: far fa-star
-#    config: hotTools
+  - name: 常用工具
+    icon: far fa-star
+    config: hotTools
 #  - name: 其他工具
 #    icon: fas fa-tools
 #    submenu:
