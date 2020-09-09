@@ -8,3 +8,23 @@
   img: https://www.bilibili.com/favicon.ico
   description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
 # ------------------------------------------
+- name: 软件下载 - 蓝奏云
+  url: https://486.lanzous.com/b00hoj5yf
+  img: https://486.lanzous.com/favicon.ico
+  description: 收集的一些常用软件安装包
+# ------------------------------------------
+- name: 我的笔记 - Notion
+  url: https://www.notion.so/cnotion/Note-9a48d4c39d4f4ebd90268ea5d11db0ad
+  img: https://www.notion.so/images/favicon.ico
+  description: 知识碎片整理
+# ------------------------------------------
+- name: 网速测试 - 测速网
+  url: https://www.speedtest.cn/
+  img: https://www.speedtest.cn/images/ico/favicon.png
+  description: rt
+# ------------------------------------------
+- name: GitHub 文件加速
+  url: https://github-download.yeetime.top/
+  img: /images/logos/github.png
+  description: rt
+# ------------------------------------------
