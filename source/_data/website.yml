@@ -8,5 +8,10 @@
   img: https://www.bilibili.com/favicon.ico
   description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
 # ------------------------------------------
+- name: wallhaven
+  url: https://wallhaven.cc/
+  img: https://wallhaven.cc/favicon.ico
+  description: Your source for the best high quality wallpapers on the Net!
+# ------------------------------------------
 
 
