@@ -2,29 +2,29 @@
   url: https://github.com/
   img: /images/logos/github.png
   description: 面向开源及私有软件项目的托管平台
-# ------------------------------------------
+  # ------------------------------------------
 - name: 哔哩哔哩
   url: https://www.bilibili.com/
   img: https://www.bilibili.com/favicon.ico
   description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
-# ------------------------------------------
+  # ------------------------------------------
 - name: 知乎
   url: https://www.zhihu.com/
   img: https://static.zhihu.com/static/favicon.ico
   description: 有问题，上知乎。
-# ------------------------------------------
+  # ------------------------------------------
 - name: steam
   url: https://store.steampowered.com/
   img: https://store.steampowered.com/favicon.ico
   description: 卖游戏的
-# ------------------------------------------
+  # ------------------------------------------
+- name: SCP 基金会
+  url: http://scp-wiki-cn.wikidot.com/
+  img: https://scp-wiki-cn.wikidot.com/local--iosicon/iosicon_57.png
+  description: 控制，收容，保护
+  # ------------------------------------------
 - name: wallhaven
   url: https://wallhaven.cc/
   img: https://wallhaven.cc/favicon.ico
   description: Your source for the best high quality wallpapers on the Net!
-# ------------------------------------------
-- name: wallhaven
-  url: http://scp-wiki-cn.wikidot.com/
-  img: https://wallhaven.cc/favicon.ico
-  description: Your source for the best high quality wallpapers on the Net!
-# ------------------------------------------
+  # ------------------------------------------
