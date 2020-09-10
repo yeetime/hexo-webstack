@@ -21,8 +21,11 @@ menu:
     icon: fa fa-globe
     config: website
   - name: 常用工具
-    icon: far fa-star
+    icon: fa fa-wrench
     config: hotTools
+  - name: 我的
+    icon: fa fa-user
+    config: my
 #  - name: 其他工具
 #    icon: fas fa-tools
 #    submenu:
