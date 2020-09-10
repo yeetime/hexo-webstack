@@ -8,10 +8,23 @@
   img: https://www.bilibili.com/favicon.ico
   description: 哔哩哔哩 (゜-゜)つロ 干杯~-bilibili
 # ------------------------------------------
+- name: 知乎
+  url: https://www.zhihu.com/
+  img: https://static.zhihu.com/static/favicon.ico
+  description: 有问题，上知乎。
+# ------------------------------------------
+- name: steam
+  url: https://store.steampowered.com/
+  img: https://store.steampowered.com/favicon.ico
+  description: 卖游戏的
+# ------------------------------------------
 - name: wallhaven
   url: https://wallhaven.cc/
   img: https://wallhaven.cc/favicon.ico
   description: Your source for the best high quality wallpapers on the Net!
 # ------------------------------------------
-
-
+- name: wallhaven
+  url: http://scp-wiki-cn.wikidot.com/
+  img: https://wallhaven.cc/favicon.ico
+  description: Your source for the best high quality wallpapers on the Net!
+# ------------------------------------------
