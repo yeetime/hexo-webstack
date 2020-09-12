@@ -13,3 +13,13 @@
   img: /favicon.ico
   description: IP.cn - IP 地址查询 | 地理位置 | 手机归属地
   # ------------------------------------------
+- name: Postwoman
+  url: https://reqres.cn/
+  img: https://reqres.cn/favicon.ico
+  description: 免费、快速、漂亮的API测试请求开发工具
+  # ------------------------------------------
+- name: App&Web国际化翻译搜索
+  url: https://i18ns.com/zh/index.html
+  img: https://i18ns.com/favicon.ico
+  description: 多语言翻译搜索网站
+  # ------------------------------------------
