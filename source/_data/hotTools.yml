@@ -23,3 +23,8 @@
   img: https://i18ns.com/favicon.ico
   description: 多语言翻译搜索网站
   # ------------------------------------------
+- name: 汇率转换计算器
+  url: https://freecurrencyrates.com/zh-hans/
+  img: https://freecurrencyrates.com/images/favicon.ico
+  description: 在线汇率转换计算器。按名称、代码、国家或使用智能搜索来从 345 种全球货币中选择。汇率每小时更新。历史汇率也可供查询。
+  # ------------------------------------------
