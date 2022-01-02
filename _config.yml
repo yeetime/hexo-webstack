@@ -105,6 +105,5 @@ theme: webstack
 deploy:
   type: 'git'
   repo:
-    coding: git@e.coding.net:voe/dev/hexo-webstack.git
-    # github: git@github.com:yeetime/yeetime.github.io.git
-  branch: master
+    github: git@github.com:yeetime/yeetime.github.io.git
+  branch: gh-pages
